@@ -1,6 +1,14 @@
+<div align="center">
+  
 # DigiTrip 🌍✈️
 
 **DigiTrip** is a relational database system designed to support a virtual travel cataloging and sharing application. It was developed as the practical assignment for Bases de Dados @ University of Minho
+
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![Workbench](https://img.shields.io/badge/MySQL-Workbench-orange)
+![SQL](https://img.shields.io/badge/Language-SQL-lightgrey)
+
+</div>
 
 ---
 
