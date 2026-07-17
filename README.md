@@ -34,6 +34,8 @@ The project covers the entire database development lifecycle:
 
 The system models the following core entities:
 
+<div align="center">
+  
 | Entity | Description |
 |---|---|
 | **Viajante** (Traveler) | The application's users, who register, create trips, and comment. |
@@ -43,7 +45,7 @@ The system models the following core entities:
 | **Comentario** (Comment) | Feedback and ratings left by travelers on trips. |
 | **Conteudo** (Content) | Multimedia (photos/videos) associated with locations and trips. |
 
-Key relationships include a traveler *realizing* trips, a trip *visiting* locations (many-to-many), locations being *associated* with a country, and comments/content linked to both trips and locations.
+</div>
 
 ---
 
